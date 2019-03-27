@@ -38,3 +38,5 @@
 
   ![](./Doc/debug-viewer.png)
 
+[EventRecorder overview](http://www.keil.com/pack/doc/compiler/EventRecorder/html/er_overview.html)
+
