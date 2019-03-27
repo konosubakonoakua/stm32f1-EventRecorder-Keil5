@@ -1,4 +1,4 @@
-# HOW TO USE EVENT-RECORDER IN KEIL5
+# HOW TO USE EVENT-RECORDER IN KEIL5 on a [BLUEPILL](http://wiki.stm32duino.com/index.php?title=Blue_Pill)
 
 - Add Compiler Component like this.
 
@@ -34,7 +34,7 @@
 
 - Then you'll get this.
 
-  ![](./Doc/Event Statistics.png)
+  ![](./Doc/Event-Statistics.png)
 
-  ![](./Doc/debug viewer.png)
+  ![](./Doc/debug-viewer.png)
 
